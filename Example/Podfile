@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PassField_Example' do
+  pod 'PassField', :path => '../'
+
+  target 'PassField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
