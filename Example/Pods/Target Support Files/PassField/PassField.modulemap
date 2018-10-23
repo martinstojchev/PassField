@@ -1,0 +1,6 @@
+framework module PassField {
+  umbrella header "PassField-umbrella.h"
+
+  export *
+  module * { export * }
+}

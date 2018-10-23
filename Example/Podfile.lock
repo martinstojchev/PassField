@@ -1,0 +1,16 @@
+PODS:
+  - PassField (0.1.0)
+
+DEPENDENCIES:
+  - PassField (from `../`)
+
+EXTERNAL SOURCES:
+  PassField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PassField: 8b1ed2e2594ed890f7b9d22da7488cfae6b74792
+
+PODFILE CHECKSUM: 9c9f7850526c5cc5b0dd7245d3ee5aaae394481d
+
+COCOAPODS: 1.5.0
